@@ -1,0 +1,7 @@
+*.pyc
+*~
+__pycache__
+yourvenv
+db.sqlite3
+/static
+.DS_Storegit status
